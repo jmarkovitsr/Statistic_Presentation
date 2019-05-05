@@ -1,0 +1,174 @@
+---
+title: " The developing of Intercultural competence in Chilean High-school students."
+subtitle: "Viviana Aylwin,Jennifer Markovits, Marcelo Romero  (2017)"
+author: "Jennifer Markovits"
+date: "2019/03/30 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["fc", "ninjutsu", "robot"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+ratio: 16:9
+---
+
+# Introduction
+
+
+- Homogeneity is the feature that characterizes the urban Chilean society. 
+- Although there are an important percentage of indigenous people, they generally lived in rural areas
+- 1996 A diaspora from the countryside by Indigenous people toward the cities since Chile achieved economic stability (Moulian, 2013)
+- 2010 People from different countries have established in the region. 
+- 23.8% are people of Peruvian nationality, 13% are Colombian, 12% Venezuelan, 11% Bolivian and 10% Haitian
+![](libs/img/img11.png)
+
+
+
+---
+#Background 
+- Chile has a high level of inequality in education and segregation school system is one of the most relevant topics in the country (Nuñez & Espinoza, 2014; Nuñez & Miranda, 2011; OECD, 2010)
+- Leopolodo Castedo (1999) : intercultural process/ Independence cultural homogenization 
+- Not-legitimization of cultural diversity from the formal schooling system
+- City segregation
+- 1993: CONADI
+- 1996: PEIB
+
+![](libs/img/img12.png)
+
+---
+
+# Intercultural education
+
+![](libs/img/img13.png)
+
+
+
+---
+
+# Research question and Hypothesis 
+
+
+## Research question  
+- Is there a correlation between the proposal of interculturality proposed by the Ministry of Education and the educational practices in high-schools?
+
+## Hypothesis 
+
+- Pedagogic practices in high-school have a negative effect in the developing of interculturality as competence within the classroom 
+
+
+
+---
+# Methods
+
+### Participants
+- Ten university instructors from the state university Universidad de Playa Ancha.
+- Six  Department of Linguistics
+- Two  Department of History and Geography.
+- Two  Department of Philosophy. 
+- Age ranged from 32 and 50 years old. 
+
+### Materials
+- Items selected for the experiment  from a class activity performed by 37 8th grade girl-students from a high school in an urban center. Ages ranged from 13 to 14 years old.  
+- Class activity 
+
+.pull-left[![](libs/img/img14.png)]
+.pull-right[![](libs/img/img15.png)]
+
+
+---
+# Instrument 
+
+- FCT: 59: incluyente- neutro-excluyente
+- FCT: 59: incluyente- neutro- excluyente
+
+![](libs/img/img16.png)
+---
+# Procedure
+## Experimental Phase
+
+1. PPT image presentation session 1 and session 2 (5 min each)
+2. Introduction (5 min)
+3. Forced-choice task session 1 and session 2. (15 min)
+
+---
+#DEPENDENT VARIABLES?
+#INDEPENDENT VARIABLES?
+#WHAT TEST SHOULD WE RUN?
+
+
+---
+
+# The Basics
+## Independent variable(s)
+- Items selected
+
+## Dependent variable(s)
+- Difference in FCT 1 and FCT 2 score
+
+# Statistical Testing
+##  T-TEST FOR DEPENDENT SAMPLES
+- Within Subject Design
+- 1 independent variable
+- 1 dependent variable 
+
+---
+
+# Steps 
+## 1. Define Null and Alternative Hypotheses
+ 
+
+![](libs/img/img17.png)
+
+---
+
+##2. Calculate Degrees of Freedom
+
+- df for Dependent Samples t-Test
+- df =  N-1
+- df = 347 -1 = 346
+
+##3.Run T-test
+- but first Run descriptives to get M, SD, kurtosis, and skewness
+
+![](libs/img/img18.png)   
+---
+##3. Check t observed and t critical
+
+- t observed ≥ t critical = significant
+- t obsereved < t critical = not significant
+- t critical = 1645
+- t observed = -2.487
+- t observed is significant 
+
+---
+# Results 
+To test the hypothesis that pedagogical practices in high-school have a negative effect in the developing of interculturality as a competence within the classroom, a T-test was performed to analyze FCT 1 and FCT 2 mean. The hypothesis was that the instructor s FCT 1 mean was lower than the instructor s FCT 2 mean.  Before conducting the analysis, the assumption of normal distributed differenced score was examined. The assumption was considered satisfied, as the skewness and kurtosis level was estimated at -.344 and -1.457, respectively for forced-choice task 1 and -.721 and -1.262 respectively for forced-choice task 2 which is less than the maximum allowable for a t-test. A dependent sample T-test reveal a significant difference in Forced-choice task 1 mean (M=2.18, SD= .827) and Forced-choice task 2 mean (M=2.35 SD= .858); t (346) = -1.2487, p < 0.05, indicating that the pedagogical practices within the classroom have a negative effect in developing interculturality as a competence in the classroom. 
+
+---
+# Discussion
+.pull-left[Diachronic 
+
+1. Historical homogenization process in Chile
+2. City segregations
+3. Interculturality only entails ethnic origin ]
+
+.pull-right[Synchronic 
+
+1. Increasing rural exodus to the urban centers
+2. Migration from different countries]
+
+.center[## Although the state educational proposal has an intercultural program, it is possible to affirm that there is no correlation between the curriculum and the pedagogical practices within the classroom ]
+
+ 
+
+  
+---
+
+.center[#Questions? ]
+
+
+---
+
+# Thank you!
